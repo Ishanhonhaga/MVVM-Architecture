@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Fixit</string>
+    <string name="title_complain">Complain</string>
+    <string name="title_tracker">Tracker</string>
+    <string name="title_notice">Notice Board</string>
+</resources>
